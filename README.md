@@ -1,2 +1,24 @@
-# FrontVuejsTest
-Mostra uma Lista dados de uma API feita com .Net core api, este projeto foi feito com Vue js. Para chamar a API foi usado axios
+# indikatoreteste
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
